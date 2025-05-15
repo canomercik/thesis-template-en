@@ -1,7 +1,6 @@
-````markdown
-# English Thesis Template
+# English Thesis Template for Düzce University
 
-A simple, academic-style Microsoft Word template for writing undergraduate and graduate theses, projects or assignments in English.
+A simple, academic-style Microsoft Word template designed specifically for writing undergraduate and graduate theses, projects, or assignments at Düzce University, in English.
 
 ---
 
@@ -9,14 +8,14 @@ A simple, academic-style Microsoft Word template for writing undergraduate and g
 
 This repository contains a preformatted `.docx` template (`English Thesis Template.docx`) with:
 
-- Title page  
-- Table of Contents  
-- Lists of Figures/Tables/Symbols  
-- Chapters and section styles  
-- Heading, subheading and body text styles  
-- Footnote and bibliography formatting  
-- Acknowledgments and dedication pages  
-- Prebuilt numbering, captions and cross-reference support  
+* Title page
+* Table of Contents
+* Lists of Figures/Tables/Symbols
+* Chapters and section styles
+* Heading, subheading and body text styles
+* Footnote and bibliography formatting
+* Acknowledgments and dedication pages
+* Prebuilt numbering, captions and cross-reference support
 
 You can clone or download the template and start writing immediately.
 
@@ -24,20 +23,21 @@ You can clone or download the template and start writing immediately.
 
 ## 🔧 Requirements
 
-- Microsoft Word 2016 or later (Windows/Mac)  
-- Alternatively: LibreOffice Writer (may require minor style adjustments)
+* Microsoft Word 2016 or later (Windows/Mac)
+* Alternatively: LibreOffice Writer (may require minor style adjustments)
 
 ---
 
 ## 🚀 Usage
 
-1. **Download or clone**  
+1. **Download or clone**
+
    ```bash
    git clone https://github.com/YourUsername/thesis-template-en.git
    cd thesis-template-en
-````
+   ```
 
-Or simply download **English Thesis Template.docx** via the “Download ZIP” button.
+   Or simply download **English Thesis Template.docx** via the “Download ZIP” button.
 
 2. **Open in Word**
 
@@ -76,3 +76,9 @@ Feel free to open an issue or submit a pull request if you:
 * Find typos or formatting errors
 * Want to add new predefined styles or sections
 * Need help adapting for other thesis guidelines
+
+---
+
+## 📜 License
+
+This template is released under the MIT License. You are free to use and adapt it for your academic work.
