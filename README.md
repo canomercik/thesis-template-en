@@ -76,8 +76,3 @@ Feel free to open an issue or submit a pull request if you:
 * Find typos or formatting errors
 * Want to add new predefined styles or sections
 * Need help adapting for other thesis guidelines
-
-This template is released under the [MIT License](LICENSE). You are free to use and adapt it for your academic work.
-
-```
-```
