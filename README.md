@@ -29,7 +29,7 @@ You can clone or download the template and start writing immediately.
 * Alternatively: ONLYOFFICE (may require minor style adjustments)
 * Alternatively: LibreOffice Writer (may require minor style adjustments)
 
-*UNRECOMMENDED:* Google Docs (due not having dynamic list of figures, tables, maps)
+**UNRECOMMENDED:** Google Docs (due not having dynamic list of figures, tables, maps)
 
 ---
 
