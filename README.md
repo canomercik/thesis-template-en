@@ -1,5 +1,7 @@
 # English Thesis Template for Düzce University
 
+![Ekran görüntüsü 2025-05-16 132309](https://github.com/user-attachments/assets/5e6096d9-7b36-41ae-b648-67bc38e04216)
+
 A simple, academic-style Microsoft Word template designed specifically for writing undergraduate and graduate theses, projects, or assignments at Düzce University, in English.
 
 ---
